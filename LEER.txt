@@ -1,0 +1,12 @@
+Nombre: Felipe San Martín 
+Profesor: René Cabrera 
+Ramo: Seguridad de Software
+Sección 6 
+
+Esta página consiste en exponer imágenes generadas por una IA de acceso libre a la cuál un usuario puede pedirle que "sueñe" con una imagen que esta IA puede plasmar. Originalmente la página tenía la intención de que un usuario tenga la opción de comentar, opinar y calificar las imágenes entregadas, pero es una idea que se piensa realizar a futuro incluyendo bases de datos entre otras herramientas para hacer una página más pulcra. 
+
+Webgrafía: 
+https://getbootstrap.com/
+https://www.w3schools.com/ 
+https://beta.dreamstudio.ai/
+--Videos Plan laboral 1 -- 
